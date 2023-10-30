@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+   background-color: rgb(226, 48, 107);
+    
+}
+
+h1{
+    color:white;
+    font-size: 100px;
+    text-align: center;
+    font-family:"rubik burned", sans-serif;
+}
+
+
+.scoreboard{
+    font-size: 30px;
+    color: white;
+    padding: 50px; 
+    font-family: 'rubik burned', sans-serif;
+} 
+
+.optionsBtn{
+    cursor:pointer;
+    font-size: 10rem;
+    color:white;
+    padding:60px  56px;
+    display: flexbox;
+    border: none;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+
+
+.fa-hand-back-fist{
+    font-size: 80px;
+    
+
+
+}
+
+.fa-hand{
+    font-size:80px;
+
+}
+
+.fa-hand-scissors{
+    font-size: 80px;
+
+}
